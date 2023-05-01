@@ -9,4 +9,5 @@ id:
 4. sajek
 
 for rooms info https://travel-guru-server-six-ecru.vercel.app/rooms/:id
-example : https://travel-guru-server-six-ecru.vercel.app/rooms/sunderban
+
+example : https://travel-guru-server-six-ecru.vercel.app/rooms/sundarban
