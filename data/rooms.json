@@ -1,0 +1,178 @@
+[
+	{
+		"id": "sundarban",
+		"hotel_name": "The Cozy Inn",
+		"room_number": "B1",
+		"room_type": "Triple/Quadruple Room",
+		"bed_quantity": "2",
+		"review": "4.6",
+		"review_quantity": "20",
+		"price_per_night": "120",
+		"facilities": ["Air Conditioning", "Free Wi-Fi", "Flat-Screen TV", "Mini Fridge"]
+	},
+	{
+		"id": "sundarban",
+		"hotel_name": "The Sunny Retreat",
+		"room_number": "C2",
+		"room_type": "Family Room",
+		"bed_quantity": "3",
+		"price_per_night": "150",
+		"review": "4.6",
+		"review_quantity": "20",
+		"facilities": ["Air Conditioning", "Free Wi-Fi", "Flat-Screen TV", "Microwave"]
+	},
+	{
+		"id": "sundarban",
+		"hotel_name": "The Beach House",
+		"room_number": "A5",
+		"room_type": "Family Room",
+		"price_per_night": "175",
+		"review": "4.6",
+		"review_quantity": "20",
+		"bed_quantity": "4",
+		"facilities": ["Air Conditioning", "Free Wi-Fi", "Flat-Screen TV", "Mini Fridge"]
+	},
+	{
+		"id": "sundarban",
+		"hotel_name": "The Mountain Lodge",
+		"room_number": "D3",
+		"room_type": "Triple Room",
+		"price_per_night": "100",
+		"review": "4.6",
+		"review_quantity": "20",
+		"bed_quantity": "2",
+		"facilities": ["Air Conditioning", "Free Wi-Fi", "Flat-Screen TV", "Tea/Coffee Maker"]
+	},
+	{
+		"id": "cBazar",
+		"hotel_name": "The Oasis",
+		"room_number": "E4",
+		"room_type": "Standard Room",
+		"price_per_night": "75",
+		"review": "4.6",
+		"review_quantity": "20",
+		"bed_quantity": "1",
+		"facilities": ["Air Conditioning", "Free Wi-Fi", "Flat-Screen TV", "Mini Fridge"]
+	},
+	{
+		"id": "cBazar",
+		"hotel_name": "The Harbor View",
+		"room_number": "F2",
+		"room_type": "Double Room",
+		"price_per_night": "90",
+		"review": "4.6",
+		"review_quantity": "20",
+		"bed_quantity": "2",
+		"facilities": ["Air Conditioning", "Free Wi-Fi", "Flat-Screen TV", "Mini Fridge"]
+	},
+	{
+		"id": "cBazar",
+		"hotel_name": "The Garden Suite",
+		"room_number": "G1",
+		"room_type": "Suite",
+		"price_per_night": "200",
+		"review": "4.6",
+		"review_quantity": "20",
+		"bed_quantity": "1",
+		"facilities": ["Air Conditioning", "Free Wi-Fi", "Flat-Screen TV", "Mini Fridge", "Hairdryer"]
+	},
+	{
+		"id": "cBazar",
+		"hotel_name": "The City View",
+		"room_number": "H3",
+		"room_type": "Double Room",
+		"price_per_night": "100",
+		"review": "4.6",
+		"review_quantity": "20",
+		"bed_quantity": "1",
+		"facilities": ["Air Conditioning", "Free Wi-Fi", "Flat-Screen TV", "Mini Fridge"]
+	},
+	{
+		"id": "streemangal",
+		"hotel_name": "The Seaside Inn",
+		"room_number": "G1",
+		"room_type": "Double Room",
+		"price_per_night": "95",
+		"review": "4.6",
+		"review_quantity": "20",
+		"bed_quantity": "1",
+		"facilities": ["Air Conditioning", "Free Wi-Fi", "Flat-Screen TV", "Mini Fridge"]
+	},
+	{
+		"id": "streemangal",
+		"hotel_name": "The Mountain Lodge",
+		"room_number": "H2",
+		"room_type": "Twin Room",
+		"price_per_night": "85",
+		"review": "4.6",
+		"review_quantity": "20",
+		"bed_quantity": "2",
+		"facilities": ["Air Conditioning", "Free Wi-Fi", "Flat-Screen TV", "Tea/Coffee Maker"]
+	},
+	{
+		"id": "streemangal",
+		"hotel_name": "The Garden View",
+		"room_number": "I3",
+		"room_type": "Single Room",
+		"price_per_night": "60",
+		"review": "4.6",
+		"review_quantity": "20",
+		"bed_quantity": "1",
+		"facilities": ["Air Conditioning", "Free Wi-Fi", "Flat-Screen TV", "En-suite Bathroom"]
+	},
+	{
+		"id": "streemangal",
+		"hotel_name": "The Oasis",
+		"room_number": "J4",
+		"room_type": "Double Room",
+		"price_per_night": "90",
+		"review": "4.6",
+		"review_quantity": "20",
+		"bed_quantity": "1",
+		"facilities": ["Air Conditioning", "Free Wi-Fi", "Flat-Screen TV", "Mini Fridge"]
+	},
+	{
+		"id": "sajek",
+		"hotel_name": "The City Escape",
+		"room_number": "K5",
+		"room_type": "Triple Room",
+		"price_per_night": "105",
+		"review": "4.6",
+		"review_quantity": "20",
+		"bed_quantity": "2",
+		"facilities": ["Air Conditioning", "Free Wi-Fi", "Flat-Screen TV", "Tea/Coffee Maker"]
+	},
+	{
+		"id": "sajek",
+		"hotel_name": "The Island Getaway",
+		"room_number": "L1",
+		"room_type": "Family Room",
+		"price_per_night": 180,
+		"bed_quantity": "4",
+		"review": "4.6",
+		"review_quantity": "20",
+		"facilities": ["Air Conditioning", "Free Wi-Fi", "Flat-Screen TV", "Kitchenette"]
+	},
+	{
+		"id": "sajek",
+		"hotel_name": "The River View",
+		"room_number": "M2",
+		"room_type": "Double Room",
+		"price_per_night": "95",
+		"review": "4.6",
+		"review_quantity": "20",
+		"bed_quantity": "1",
+		"facilities": ["Air Conditioning", "Free Wi-Fi", "Flat-Screen TV", "Mini Fridge", "En-suite Bathroom"]
+	},
+	{
+		"id": "sajek",
+		"hotel_name": "The Cozy Cabin",
+		"room_number": "N3",
+		"room_type": "Standard Room",
+		"price_per_night": "70",
+		"review": "4.6",
+		"review_quantity": "20",
+		"bed_quantity": "2",
+		"facilities": ["Free Wi-Fi", "Flat-Screen TV", "Mini Fridge"]
+	}
+]

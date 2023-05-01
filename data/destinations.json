@@ -1,0 +1,22 @@
+[
+	{
+		"id": "sundarban",
+		"destination_name": "Sundarban",
+		"photo": "https://www.sundarbanwildlifetourism.com/wp-content/uploads/2022/07/sundarban-tour-and-travels-1.jpg"
+	},
+	{
+		"id": "cBazar",
+		"destination_name": "Cox's Bazar",
+		"photo": "https://www.tripsilo.com/uploads/images/tours/slider/924119_Him.jpg"
+	},
+	{
+		"id": "streemangal",
+		"destination_name": "Streemangal",
+		"photo": "https://touristsignal.com/wp-content/uploads/2014/12/Sreemangal-tourist-signal.jpg"
+	},
+	{
+		"id": "sajek",
+		"destination_name": "Sajek",
+		"photo": "https://secure.jetliatravels.com/uploads/sajek_valley_bd.jpg"
+	}
+]
